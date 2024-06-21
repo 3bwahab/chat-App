@@ -43,7 +43,7 @@ To get started with the project, follow these steps:
 
 ## Usage
 
-After starting the application, you can access it in your browser at `http://localhost:3000`.
+https://github.com/3bwahab/chat-App/assets/113865512/12792051-77d6-46fa-8836-98c0fc7b2115
 
 ### Features
 

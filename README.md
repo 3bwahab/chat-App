@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/chatapp.git
+    git clone https://github.com/3bwahab/chat-App.git
     cd chatapp
     ```
 
@@ -62,7 +62,7 @@ We welcome contributions to improve this project! To contribute, follow these st
 2. **Clone your forked repository**
 
     ```bash
-    git clone https://github.com/yourusername/chatapp.git
+    git clone https://github.com/3bwahab/chat-App.git
     cd chatapp
     ```
 
